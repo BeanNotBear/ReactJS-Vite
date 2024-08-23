@@ -2,7 +2,7 @@
 const MyComponent = () => {
     return (
         <div>
-            Hello
+            Nghi
         </div>
     );
 };
